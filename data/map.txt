@@ -36,7 +36,7 @@ system Athti
 		period 800
 		object Rathtunebe
 			sprite planet/lava1
-			distance 320
+			distance 274.18
 			period 20
 
 planet Flaure
@@ -59,3 +59,4 @@ planet Rathtunebe
 	spaceport ""
 	government "Tari Shuda"
 	security 0.1
+
