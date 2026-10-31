@@ -26,8 +26,15 @@ system Athti
 	object
 		sprite star/m-supergiant
 		period 3000
-	object
+	object Flaure
 		sprite planet/cloud8-b
 		distance 3200
 		period 3000
+
+planet Flaure
+	landscape land/city25
+	description "The home planet of the Sathtari has been terraformed to perfection. The constant cloud cover allows for easy energy absorption for the Tari Rithta, while also making it difficult for any of the Tari Shuda to live here. The air is thick with fog, but is breathable. Much of the planet is covered in cities, but there are a few large swaths of wilderness for the enjoyment of the Tari Rithta."
+	spaceport "The 14 elevator shafts connect in a building that vaguely resembles an aircraft hangar, but is fully automated. These shafts can carry a cargo or patrol ship up to a parking orbit in 45 minutes with magnetic acceleration. Near this building is located a massive landing pad for transport vehicles that take off directly from the ground. Around both is a tight security guard, armed to the teeth."
+	government "Tari Rithta"
+	security 1
 
