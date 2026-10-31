@@ -1,6 +1,6 @@
 government "Tari Rithta"
-	color 0 0.178 0.505
+	color 0 0.268 0.76
 
 government "Tari Shuda"
-	color 0.289 0.581 1
+	color 0.289 0.895 1
 
