@@ -1,5 +1,6 @@
 system Athti
 	pos -805.25 -153.875
+	government "Tari Rithta"
 	habitable 3200
 	belt 3000
 	haze _menu/haze-33
