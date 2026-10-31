@@ -34,6 +34,10 @@ system Athti
 		sprite planet/rock4-b
 		distance 1600
 		period 800
+		object Rathtunebe
+			sprite planet/lava1
+			distance 320
+			period 20
 
 planet Flaure
 	landscape land/city25
@@ -48,3 +52,10 @@ planet Hu'akhebe
 	spaceport "The five rugged elevator shafts creak under the weight of cargo ships bearing hundreds of tons of minerals. Several miles away towers the landing pad for transport ships, which are usually used for high-ranking Tari Rithta officials to inspect their mines."
 	government "Tari Rithta"
 	security 0.6
+
+planet Rathtunebe
+	landscape land/lava9
+	description ""
+	spaceport ""
+	government "Tari Shuda"
+	security 0.1
