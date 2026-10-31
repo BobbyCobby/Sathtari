@@ -30,6 +30,10 @@ system Athti
 		sprite planet/cloud8-b
 		distance 3200
 		period 3000
+	object Hu'akh
+		sprite planet/rock4-b
+		distance 1600
+		period 800
 
 planet Flaure
 	landscape land/city25
@@ -38,3 +42,9 @@ planet Flaure
 	government "Tari Rithta"
 	security 1
 
+planet Hu'akh
+	landscape land/canyon02
+	description "The main mining planet of the Sathtari, this barren landscape is rich with mineral deposits. The air is thin but breathable, and the climate is overcast and incredibly hot. In this area of the planet, there are facilities similar to those of Flaure, but most of the planet is one giant mining outpost, worked by the Tari Shuda."
+	spaceport "The five rugged elevator shafts creak under the weight of cargo ships bearing hundreds of tons of minerals. Several miles away towers the landing pad for transport ships, which are usually used for high-ranking Tari Rithta officials to inspect their mines."
+	government "Tari Rithta"
+	security 0.6
