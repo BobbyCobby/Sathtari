@@ -1,3 +1,32 @@
 system Athti
 	pos -805.25 -153.875
+	habitable 3200
+	belt 3000
+	haze _menu/haze-33
+	asteroids "small rock" 1 10
+	asteroids "medium rock" 1 7
+	asteroids "large rock" 1 4
+	asteroids "small metal" 1 2.01
+	asteroids "medium metal" 1 2.4
+	asteroids "large metal" 1 2.94
+	minables lead 2 5.708
+	minables titanium 5 8.552
+	minables iron 1 8.226
+	trade Clothing 349
+	trade Electronics 678
+	trade Equipment 507
+	trade Food 537
+	trade "Heavy Metals" 772
+	trade Industrial 542
+	trade "Luxury Goods" 1103
+	trade Medical 877
+	trade Metal 399
+	trade Plastic 299
+	object
+		sprite star/m-supergiant
+		period 3000
+	object
+		sprite planet/cloud8-b
+		distance 3200
+		period 3000
 
