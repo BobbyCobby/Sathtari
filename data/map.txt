@@ -13,16 +13,16 @@ system Athti
 	minables lead 2 5.708
 	minables titanium 5 8.552
 	minables iron 1 8.226
-	trade Clothing 349
-	trade Electronics 678
-	trade Equipment 507
-	trade Food 537
+	trade Clothing 249
+	trade Electronics 588
+	trade Equipment 557
+	trade Food 337
 	trade "Heavy Metals" 772
-	trade Industrial 542
-	trade "Luxury Goods" 1103
-	trade Medical 877
-	trade Metal 399
-	trade Plastic 299
+	trade Industrial 642
+	trade "Luxury Goods" 1003
+	trade Medical 977
+	trade Metal 299
+	trade Plastic 499
 	object
 		sprite star/m-supergiant
 		period 3000
