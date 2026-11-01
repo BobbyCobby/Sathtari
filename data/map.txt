@@ -56,8 +56,8 @@ planet Hu'akhebe
 
 planet Rathtunebe
 	landscape land/lava9
-	description ""
-	spaceport ""
+	description "Rathtunebe is a molten moon of Hu'akhebe, barely livable between its highly active volcanos and its proximity to the star. The planet is exclusively used as a place to maroon disobedient Tari Shuda workers, which despite its seemingly prohibitive cost is an extremely effective means of controlling the semi-enslaved Sathtari working on Hu'akhebe. A few survived long enough to build bunkers against the smoke and ash, and have managed to create a small village underground."
+	spaceport `The spaceport is no more than a rapidly constructed platform for fortified Flazhdimbi ships to land long enough to drop off a few unlucky Tari Shuda every couple of months. Without guidance, most would perish before finding the entrance to the village Ratunarak, the "Banished Light".`
 	government "Tari Shuda"
 	security 0.1
 
