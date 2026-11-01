@@ -28,6 +28,7 @@ system Athti
 		period 3000
 	object Flaure
 		sprite planet/cloud8-b
+			scale 2
 		distance 3200
 		period 3000
 	object Hu'akhebe
