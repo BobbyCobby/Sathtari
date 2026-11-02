@@ -103,12 +103,13 @@ system "Huarngko Kara"
 	trade Metal 332
 	trade Plastic 488
 	object
-		sprite star/a0
-		distance 50
+		sprite star/a-giant
+		distance 87.155
 		period 50
+		offset 180
 	object
 		sprite star/a0
-		distance 200
+		distance 174.513
 		period 50
 
 system Farithta
@@ -150,7 +151,6 @@ system Furum
 	link Katro
 	link Sopi
 	link "Tingka Tinko"
-
 
 system "Tingka Tinko"
 	pos -972.083 -82.208
