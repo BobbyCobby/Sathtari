@@ -77,12 +77,29 @@ planet Krase
 system "Huarngko Kara"
 	pos -866.75 -189.542
 	government Uninhabited
+	belt 1317
+	belt 2076 9
 	link Athti
 	link Farithta
 	link Furum
 	link Katro
 	link Saro
 	link Sopi
+	asteroids "small rock" 2 0.878
+	asteroids "medium rock" 3 1.224
+	asteroids "large rock" 4 0.749
+	asteroids "large metal" 1 0.965
+	minables aluminum 1 1.245
+	trade Clothing 264
+	trade Electronics 602
+	trade Equipment 541
+	trade Food 372
+	trade "Heavy Metals" 747
+	trade Industrial 678
+	trade "Luxury Goods" 1025
+	trade Medical 921
+	trade Metal 332
+	trade Plastic 488
 
 system Farithta
 	pos -804.75 -226.208
