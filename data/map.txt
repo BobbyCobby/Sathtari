@@ -102,6 +102,14 @@ system "Huarngko Kara"
 	trade Medical 921
 	trade Metal 332
 	trade Plastic 488
+	object
+		sprite star/a0
+		distance 50
+		period 50
+	object
+		sprite star/a0
+		distance 200
+		period 50
 
 system Farithta
 	pos -804.75 -226.208
