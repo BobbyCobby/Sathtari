@@ -77,8 +77,10 @@ planet Krase
 system "Huarngko Kara"
 	pos -866.75 -189.542
 	government Uninhabited
+	habitable 2000
 	belt 1317
 	belt 2076 9
+	haze _menu/haze-133
 	link Athti
 	link Farithta
 	link Furum
