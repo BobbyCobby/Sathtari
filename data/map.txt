@@ -4,6 +4,7 @@ system Athti
 	habitable 3200
 	belt 3000
 	haze _menu/haze-33
+	link "Huarngko Kara"
 	asteroids "small rock" 1 10
 	asteroids "medium rock" 1 7
 	asteroids "large rock" 1 4
@@ -72,4 +73,52 @@ planet Krase
 	spaceport "One single elevator shaft and a small landing pad are the entire spaceport. A railway leads into the distance, towards a few observatories on the horizon. Farther away is a towering mountain range which would dash your ship to pieces if you tried to land there."
 	government "Tari Rithta"
 	security 0.35
+
+system "Huarngko Kara"
+	pos -866.75 -189.542
+	link Athti
+	link Farithta
+	link Furum
+	link Katro
+	link Saro
+	link Sopi
+
+system Farithta
+	pos -804.75 -226.208
+	link "Huarngko Kara"
+	link Saro
+
+system Saro
+	pos -844.75 -250.208
+	link Fantiboti
+	link Farithta
+	link "Huarngko Kara"
+
+system Fantiboti
+	pos -884.083 -298.875
+	link Katro
+	link Saro
+
+system Katro
+	pos -928.75 -224.875
+	link Fantiboti
+	link Furum
+	link "Huarngko Kara"
+
+system Sopi
+	pos -848.75 -137.542
+	link Furum
+	link "Huarngko Kara"
+
+system Furum
+	pos -944.083 -174.208
+	link "Huarngko Kara"
+	link Katro
+	link Sopi
+	link "Tingka Tinko"
+
+
+system "Tingka Tinko"
+	pos -937.417 -109.542
+	link Furum
 
