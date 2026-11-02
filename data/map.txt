@@ -102,18 +102,6 @@ system "Huarngko Kara"
 	trade Medical 921
 	trade Metal 332
 	trade Plastic 488
-	object
-		sprite planet/rock2-b
-		distance 469.561
-		period 69.06
-	object
-		sprite planet/cloud2-b
-		distance 2560.128
-		period 985.482
-	object
-		sprite planet/gas10-hot
-		distance 4697
-		period 3641.965
 
 system Farithta
 	pos -804.75 -226.208
