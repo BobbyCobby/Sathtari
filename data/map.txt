@@ -29,11 +29,11 @@ system Athti
 	object Flaure
 		sprite planet/cloud8-b
 			scale 2
-		distance 3200
+		distance 3399.149
 		period 3000
 	object Hu'akhebe
 		sprite planet/rock4-b
-		distance 1600
+		distance 1770.967
 		period 800
 		object Rathtunebe
 			sprite planet/lava1
@@ -42,7 +42,7 @@ system Athti
 			period 20
 	object Krase
 		sprite planet/ice6
-		distance 4000
+		distance 5772.343
 		period 2000
 
 planet Flaure
