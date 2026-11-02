@@ -111,6 +111,15 @@ system "Huarngko Kara"
 		sprite star/a0
 		distance 174.513
 		period 50
+	object Khufpari
+		sprite planet/rock10
+		distance 1728
+		period 1300
+
+planet Khufpari
+	landscape land/badlands4
+	description "A rugged, rocky world, Khufpari has no inhabitants but seems like a prime candidate for future settlement. The air pressure and temperature are all good, although some terraforming would be needed to increase cloud cover and cool the planet a bit."
+	government Uninhabited
 
 system Farithta
 	pos -804.75 -226.208
