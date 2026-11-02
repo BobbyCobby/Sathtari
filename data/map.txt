@@ -40,6 +40,10 @@ system Athti
 				scale 0.6
 			distance 274.18
 			period 20
+	object Krase
+		sprite planet/ice6
+		distance 4000
+		period 2000
 
 planet Flaure
 	landscape land/city25
@@ -61,4 +65,11 @@ planet Rathtunebe
 	spaceport `The spaceport is no more than a rapidly constructed platform for fortified Flazhdimbi ships to land long enough to drop off a few unlucky Tari Shuda every couple of months. Without guidance, most would perish before finding the entrance to the underground village Wiruratunarak, called the "Banished Light" in the lower Sathtarin tongue.`
 	government "Tari Shuda"
 	security 0.1
+
+planet Krase
+	landscape land/snow38
+	description "A mountainous world of ice, Krase is an almost abandoned astronomy outpost. The air is far too thin to be breathable, and you can't leave your ship for more than half an hour without contracting hypothermia."
+	spaceport "One single elevator shaft and a small landing pad are the entire spaceport. A railway leads into the distance, towards a few observatories on the horizon. Farther away is a towering mountain range which would dash your ship to pieces if you tried to land there."
+	government "Tari Rithta"
+	security 0.35
 
