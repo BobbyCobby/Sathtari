@@ -1,5 +1,5 @@
 system Athti
-	pos -805.25 -153.875
+	pos -806.583 -160.097
 	government "Tari Rithta"
 	habitable 3200
 	belt 3000
@@ -149,7 +149,7 @@ system Fantiboti
 	link Saro
 
 system Katro
-	pos -942.083 -226.875
+	pos -939.861 -227.764
 	government Uninhabited
 	link Fantiboti
 	link Furum
@@ -170,7 +170,7 @@ system Furum
 	link "Tingka Tinko"
 
 system "Tingka Tinko"
-	pos -972.083 -82.208
+	pos -964.972 -82.652
 	government Uninhabited
 	link Furum
 
