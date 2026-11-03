@@ -119,6 +119,10 @@ system "Huarngko Kara"
 		sprite planet/gas3
 		distance 4772.682
 		period 4007
+	object
+		sprite planet/neptune-b
+		distance 8592
+		period 11329
 
 planet Khufpari
 	landscape land/badlands4
