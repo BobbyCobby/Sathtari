@@ -172,5 +172,12 @@ system Furum
 system "Tingka Tinko"
 	pos -964.972 -82.652
 	government Uninhabited
+	habitable 3000
+	belt 1200
+	haze _menu/haze-full
 	link Furum
+	object
+		sprite star/protostar-orange
+			scale 20
+		period -10
 
