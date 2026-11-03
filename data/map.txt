@@ -122,7 +122,7 @@ system "Huarngko Kara"
 	object
 		sprite planet/neptune-b
 		distance 8592
-		period 11329
+		period 10329
 
 planet Khufpari
 	landscape land/badlands4
