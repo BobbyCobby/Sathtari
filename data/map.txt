@@ -115,6 +115,10 @@ system "Huarngko Kara"
 		sprite planet/rock10
 		distance 1728
 		period 1300
+	object
+		sprite planet/gas3
+		distance 5000
+		period 4800
 
 planet Khufpari
 	landscape land/badlands4
