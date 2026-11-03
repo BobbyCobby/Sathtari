@@ -2,6 +2,7 @@ system Athti
 	pos -805.25 -153.875
 	government "Tari Rithta"
 	habitable 3200
+	belt 3000
 	haze _menu/haze-33
 	link "Huarngko Kara"
 	asteroids "small rock" 1 10
@@ -10,6 +11,9 @@ system Athti
 	asteroids "small metal" 1 2.01
 	asteroids "medium metal" 1 2.4
 	asteroids "large metal" 1 2.94
+	minables lead 2 5.708
+	minables titanium 5 8.552
+	minables iron 1 8.226
 	trade Clothing 249
 	trade Electronics 588
 	trade Equipment 557
