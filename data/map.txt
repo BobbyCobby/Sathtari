@@ -176,6 +176,13 @@ system "Tingka Tinko"
 	belt 1200
 	haze _menu/haze-full
 	link Furum
+	asteroids "small rock" 5 16
+	asteroids "medium metal" 40 10
+	asteroids "large metal" 20 10
+	minables silicon 8 10
+	minables titanium 7 10
+	minables iron 6 10
+	minables copper 5 10
 	object
 		sprite star/protostar-orange
 			scale 20
