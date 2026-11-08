@@ -1,0 +1,46 @@
+ship "Thlipambi"
+	"plural" Thlipambiri
+	"sprite" ship/Thlipambi
+	"thumbnail" thumbnail/Thlipambi
+	attributes
+		# Copied from Argosy, need to change
+		category "Light Freighter"
+		"cost" 1
+		"shields" 4200
+		"hull" 2600
+		"required crew" 4
+		"bunks" 14
+		"mass" 480
+		"drag" 7.4
+		"heat dissipation" .56
+		"fuel capacity" 400
+		"cargo space" 120
+		"outfit space" 270
+		"weapon capacity" 90
+		"engine capacity" 80
+		weapon
+			"blast radius" 60
+			"shield damage" 600
+			"hull damage" 300
+			"hit force" 900
+    description "TBD"
+    "outfits" # TBD
+	gun 97.1 -40.2
+		angle 90
+	gun 97.1 40.2
+		angle 90
+	gun -97 40.3
+		angle -90
+	gun -96.5 -40.5
+		angle -90
+	turret -0.2 -23.4
+	turret 24.2 9.3
+		angle 120
+	turret -22.8 10.6
+		angle -120
+	engine 26.1 120.9
+	"steering engine" -24.7 120.9
+	# explode, final explode,
+
+shipyard "Basic Ships"
+	"Thlipambi"
