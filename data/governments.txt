@@ -1,8 +1,10 @@
 government "Tari Rithta"
+	swizzle 12
 	color 0 0.268 0.76
 	language Sathtari
 
 government "Tari Shuda"
+	swizzle 17
 	color 0.289 0.895 1
 	language Sathtari
 
