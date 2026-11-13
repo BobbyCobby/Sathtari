@@ -1,3 +1,9 @@
+---
+Note: This document is a work in progress. There are large sections that aren't up to date with my notebook and even more whose contents haven't been invented yet!
+---
+
+
+
 # Basic Description
 
 This description is the state of things when the player encounters the Sathtari.
