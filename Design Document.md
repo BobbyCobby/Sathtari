@@ -52,7 +52,17 @@ The Tari Rithta possess genetic engineering technology and are capable of some t
 - 2355: The Tari Rithta develop the ancestor of the Findirombi interceptor and begin orbital military demonstrations.
 - 2380: The first major world war begins, which is mainly fought in space.
 - 2400: The Tari Rithta have won major victories and are universally accepted as the winner. They sign peace treaties which give them the sole right to deploy a space-based military.
-- 2410: The Tari Rithta orbital blockade includes
+- 2410: The Tari Rithta orbital blockade makes spaceflight by any other faction suicidal.
+- 2450: 15 of the 92 members of the oligarchal Tungembiri Rithta council start the largest ever attempt to overthrow the government in response to the development of nuclear weapons. They form the Tari Thrifodi, the "Peaceful Ones", which gains power via a military coup inside the Tari Rithta government. They attempt to live up to their name but are forced to fight the Tari Rithta for the next 200 years.
+- 2455: The Tari Thrifodi infiltrate a major military base of the Tari Rithta (the Thlipambi Fen) and appear to be poised to start a full revolution.
+- 2456: The first ever Sathtari nuclear missile destroys the Tari Thrifodi capital city, . The Tari Tingko (the "Numerous Ones") and the Tari Shuda (the "Low Ones") end their war with each other and join together to convince the Tari Rithta to sign an anti-nuclear treaty, pretending to have developed nuclear weapons themselves. They were in fact working on the problem but had made little progress.
+- 2490: The Tari Thrifodi have established a respectable empire despite their losses at with the Tari Thrifodi to fight the Tari Rithta, whose empire spans 40% of the planet.
+- 2500: The Tari Rithta unleash an enormous nuclear arsenal and begin a massive world war.
+- 2600: The Tari Rithta have conquered all small factions of Sathtari. Their only remaining opponents are the Tari Thrifodi and the Tari Shuda. The former make repeated attempts at peace, while the latter only wish revenge.
+- 2650: The Tari Rithta defeat the Tari Thrifodi and sign a tentative peace treaty with the Tari Shuda.
+- 2700: The Tari Rithta launch a final assault on the Tari Shuda only to find that the Tari Shuda have finally invented nuclear weapons. After both sides have exhausted their supply, fierce fighting ensues.
+- 2775: The Tari Rithta conquer the last remaining Tari Shuda city, Futhrifpot "Disorder"[^2].
+- 2780: The Tari Rithta genetically modify themselves **TBW...**
 
 # Language
 
@@ -61,3 +71,5 @@ The Tari Rithta possess genetic engineering technology and are capable of some t
 # Outfits
 
 [^1]: TBD: Haven't decided yet; TBW: To Be Written, aka haven't put this in the document yet
+
+[^2]: All of these names are in the language of the Tari Rithta, so their enemies' strongholds receive names like this.
