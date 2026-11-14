@@ -2,8 +2,6 @@
 Note: This document is a work in progress. There are large sections that aren't up to date with my notebook and even more whose contents haven't been invented yet!
 ---
 
-
-
 # Basic Description
 
 This description is the state of things when the player encounters the Sathtari.
@@ -36,13 +34,25 @@ The homeworld of the Sathtari is Flaure. In antiquity, it had many different cli
 
 Much closer to the star Athti is Hu'akhebe, a rocky world full to bursting with precious metals.
 
+### Krase
+
+TBW
+
+### Rathtunebe
+
+TBW
+
 ## Political Structure
+
+TBD (oligarchy of some sort)
 
 ## Technology
 
 The Tari Rithta possess genetic engineering technology and are capable of some terraforming.  They have detected gravitational anomalies and are weeks away from discovering hyperlinks when the player meets them.
 
 ## Economics
+
+TBD
 
 # Timeline
 
@@ -58,18 +68,41 @@ The Tari Rithta possess genetic engineering technology and are capable of some t
 - 2456: The first ever Sathtari nuclear missile destroys the Tari Thrifodi capital city, . The Tari Tingko (the "Numerous Ones") and the Tari Shuda (the "Low Ones") end their war with each other and join together to convince the Tari Rithta to sign an anti-nuclear treaty, pretending to have developed nuclear weapons themselves. They were in fact working on the problem but had made little progress.
 - 2490: The Tari Thrifodi have established a respectable empire despite their losses at with the Tari Thrifodi to fight the Tari Rithta, whose empire spans 40% of the planet.
 - 2500: The Tari Rithta unleash an enormous nuclear arsenal and begin a massive world war.
+- 2590: Tari Rithta terraforming research begins in secret.
 - 2600: The Tari Rithta have conquered all small factions of Sathtari. Their only remaining opponents are the Tari Thrifodi and the Tari Shuda. The former make repeated attempts at peace, while the latter only wish revenge.
 - 2650: The Tari Rithta defeat the Tari Thrifodi and sign a tentative peace treaty with the Tari Shuda.
 - 2700: The Tari Rithta launch a final assault on the Tari Shuda only to find that the Tari Shuda have finally invented nuclear weapons. After both sides have exhausted their supply, fierce fighting ensues.
 - 2775: The Tari Rithta conquer the last remaining Tari Shuda city, Futhrifpot "Disorder"[^2].
-- 2780: The Tari Rithta genetically modify themselves **TBW...**
+- 2780: What begins as a propaganda campaign becomes a widespread philosophy as Tari Rithta society adopts their characteristic science-first, greater-good ideals. They publicly renounce war, but only because they have no remaining opponents. Proposals calling for genetic engineering are denied and an intense taboo on such experiments spreads through both factions.
+- 2800: The Tari Rithta have extinguished a few fierce but hopeless rebellions. They renounce nuclear warfare. Although like their 2783 Pacifist Decree this wouldn't have happened if they hadn't already conquered all of Flaure, this renunciation (unlike the other) was sincere as they faced the realities of recovery from nuclear fallout.
+- 2830: In a successful attempt to make life pleasanter for themselves and worse for the Tari Shuda, the Tari Rithta complete their terraforming of Flaure. Now, the planet is permanently overcast, which leads to comfortable, productive temperatures for the Tari Rithta and discomfort, lethargy, and even hypothermia among the Tari Shuda.
+- 2832: Probes discover extraordinarily abundant heavy metal veins on the inner planet Hu'akhebe (retroactively named "Labor").
+- 2833: The Tari Rithta, who are now led by twenty wealthy individuals, enact the Tivbore Tonathtidi, the "Glorious Plan". This involves terraforming Hu'akhebe for mining by the Tari Shuda, who are to be transported in their entirety by a new class of Flazhdimbi "Flier" transport ships. While bulk transport ships were considered, the idea of many flights by a fleet of fast, relatively small transport ships won out because of the possibility of reusing these ships for the transport of Tari Rithta executives and mining managers, which indeed took place. The goal of the Tivbore Tonathtidi was to construct a particle accelerator around the circumference of Flaure, which was not feasible on Hu'akhebe due to volcanic activity nor on Krase due to distance and the cost of terraforming it to be livable by either faction.
+- 2840: The initial fleet of 12 Flazhdimbi transport ships finally completes a proof-of-concept round trip mission after numerous budget setbacks. The minimal crew of 108 Tari Rithta becomes the first crewed spaceflight by any Sathtar since the completion of the drone blockade in 2410, which has long since ceased operation. Robotic terraforming of Hu'akhebe begins, as does space elevator infastructure on both worlds.
+- 2848: Hu'akhebe terraforming is completed. What was a volcanic, unlivably hot world is now reasonably comfortable for lighter-skinned Tari Shuda, but dangerously hot for Tari Rithta without protection. 
+- 2850: The majority of the Tari Shuda population has been transported and has started forced mining work. The Ghrathtombi cargo fleet begins construction.
+- 2851: Space elevator infastructure is usable but continues to grow in capacity and efficiency over the next hundred years.
+- 2854: The Ghrathtombi fleet, initially only 5 spacecraft, begins operations. The ore brought back to Flaure surpasses all hopes of quality and remaining Tari Shuda kept as a "backup" are quickly sent off to Hu'akhebe.
+- 2855: Construction of the Sathurembi Tykha, the "Great Discoverer" particle accelerator spanning the entire circumference of Flaure, begins using the refined metals from Hu'akhebe.[^3]
 
 # Language
 
+TBW
+
 # Ships
+
+TBW
+
+## Flazhdimbi
+
+These ships have some wing-like structures but actually take off vertically. They are named "Flier" in contrast to the space-elevator design used by all other Sathtari ships.
 
 # Outfits
 
-[^1]: TBD: Haven't decided yet; TBW: To Be Written, aka haven't put this in the document yet
+TBD & TBW
+
+[^1]: TBD: Haven't decided yet; TBW: To Be Written, aka haven't put this in the document yet but is somewhat established in my notebook
 
 [^2]: All of these names are in the language of the Tari Rithta, so their enemies' strongholds receive names like this.
+
+[^3]: Unlike mining work, the Tari Rithta refuse to delegate the delicate task of extracting the metals from the ore to a "lower race". The Tari Shuda are of course perfectly capable of doing this and could everything the Tari Rithta can do given the same circumstances. Their technological development was, however, limited due to civil wars which continued until around 2460, so they never reach their full potential... as of the player's contact with them.
