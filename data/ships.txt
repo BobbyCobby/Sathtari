@@ -23,8 +23,8 @@ ship "Thlipambi"
 			"shield damage" 1200
 			"hull damage" 600
 			"hit force" 1800
-    description "TBD"
-    "outfits" # TBD
+	description "TBD"
+	"outfits" # TBD
 	gun 97.1 -40.2
 		angle 90
 	gun 97.1 40.2
