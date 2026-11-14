@@ -39,7 +39,6 @@ ship "Thlipambi"
 	turret -22.8 10.6
 		angle -120
 	engine 26.1 120.9
-	"steering engine" -24.7 120.9
 	# explode, final explode,
 
 shipyard "Basic Ships"
