@@ -3,26 +3,26 @@ ship "Thlipambi"
 	"sprite" ship/Thlipambi
 	"thumbnail" thumbnail/Thlipambi
 	attributes
-		# Copied from Argosy, need to change
-		category "Light Freighter"
-		"cost" 1
-		"shields" 4200
-		"hull" 2600
-		"required crew" 4
-		"bunks" 14
-		"mass" 480
-		"drag" 7.4
-		"heat dissipation" .56
-		"fuel capacity" 400
-		"cargo space" 120
-		"outfit space" 270
-		"weapon capacity" 90
-		"engine capacity" 80
+		# Copied from Bastion, needs fine-tuning
+		category "Medium Warship"
+		"cost" 3860000
+		"shields" 8600
+		"hull" 5300
+		"required crew" 17
+		"bunks" 40
+		"mass" 1100
+		"drag" 15.5
+		"heat dissipation" .34
+		"fuel capacity" 500
+		"cargo space" 110
+		"outfit space" 470
+		"weapon capacity" 190
+		"engine capacity" 120
 		weapon
-			"blast radius" 60
-			"shield damage" 600
-			"hull damage" 300
-			"hit force" 900
+			"blast radius" 120
+			"shield damage" 1200
+			"hull damage" 600
+			"hit force" 1800
     description "TBD"
     "outfits" # TBD
 	gun 97.1 -40.2
