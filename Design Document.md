@@ -48,7 +48,7 @@ TBD (oligarchy of some sort)
 
 ## Technology
 
-The Tari Rithta possess genetic engineering technology and are capable of some terraforming.  They have detected gravitational anomalies and are weeks away from discovering hyperlinks when the player meets them.
+The Tari Rithta are capable of terraforming.  They have detected gravitational anomalies and are weeks away from discovering hyperlinks when the player meets them.
 
 ## Economics
 
