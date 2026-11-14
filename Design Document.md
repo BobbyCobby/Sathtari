@@ -84,6 +84,16 @@ TBD
 - 2851: Space elevator infastructure is usable but continues to grow in capacity and efficiency over the next hundred years.
 - 2854: The Ghrathtombi fleet, initially only 5 spacecraft, begins operations. The ore brought back to Flaure surpasses all hopes of quality and remaining Tari Shuda kept as a "backup" are quickly sent off to Hu'akhebe.
 - 2855: Construction of the Sathurembi Tykha, the "Great Discoverer" particle accelerator spanning the entire circumference of Flaure, begins using the refined metals from Hu'akhebe.[^3]
+- 2880: The Tari Shuda pilots of the unarmed Ghrathtombi freighters are no longer supervised by Tari Rithta officials on board.
+- 2900: First notable revolt of the Tari Shuda. Two Ghrathtombi pilots attempt to flee and land on Krase. The last three operational drones from the Flaure blockade make a feeble attempt to prevent their escape, but there is no space-based military force. After the drones give up, the pilots attempt to land directly on the surface, which their ships are unable to do. They crash.
+- 2905: A trio of Ghrathtombi pilots makes another attempt at escape, this time vastly underestimating the distance to Huarngko Kara and believing they can get there. No attempt at interception is made. They are presumed dead, as the journey would take thousands of years.
+  The Tari Rithta begin work on a fleet of 8 Findirombi interceptors.
+- 2934: The Sathurembi Tykha partical accelerator is halfway done.
+- 2935: A third attempt at escape is made by a league of six Ghrathtombi pilots, this time aiming for Krase like the 2900 attempt. Their ships are destroyed by the Findirombi fleet.
+  The oligarchal council is replaced by a dictator, who is overthrown by a conspiracy to create a smaller oligarchal council. This new administration constructs the Thlipambiri patrol ships and establishes the use of Hu'akhebe's highly volcanic moon Rathtunebe as punishment. This involves using specially configured Flazhdimbi to leave disobedient Tari Shuda there. While expensive, this tends to keep the Tari Shuda in check, and members of small miner revolts are sent there every few months.
+- 2960: A few banished Tari Shuda manage to survive Rathtunebe long enough to build protective dugouts. This slowly grows into a secret underground village over the next 50 years.
+- 3013: The Sathurembi Tykha is completed and powered on alongside a gravitational wave detector the size of a large human city.
+- After FW: *And that's where the player comes in...*
 
 # Language
 
