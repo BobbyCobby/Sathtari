@@ -192,12 +192,14 @@ system "Tingka Tinko"
 
 system Taro
 	pos -1033.333 -126.667
+	government Uninhabited
 	link Fusnoph
 	link Simpe
 	link "Tingka Tinko"
 
 system Fusnoph
 	pos -1085.333 -206
+	government Uninhabited
 	link Larum
 	link Simpe
 	link Taro
@@ -205,11 +207,13 @@ system Fusnoph
 
 system Tisto
 	pos -1051.333 -184
+	government Uninhabited
 	link Fusnoph
 	link Simpe
 
 system Simpe
 	pos -1022.667 -211.333
+	government Uninhabited
 	link Furum
 	link Fusnoph
 	link Katro
@@ -219,11 +223,13 @@ system Simpe
 
 system Taka
 	pos -970.167 -338.083
+	government Uninhabited
 	link Fantiboti
 	link Fis
 
 system Fis
 	pos -984.833 -306.083
+	government Uninhabited
 	link Bu
 	link Larum
 	link Taka
@@ -231,18 +237,21 @@ system Fis
 
 system Larum
 	pos -1050.833 -301.417
+	government Uninhabited
 	link Fis
 	link Fusnoph
 	link Toka
 
 system Bu
 	pos -944.833 -278.083
+	government Uninhabited
 	link Fis
 	link Katro
 	link Toka
 
 system Toka
 	pos -1016.833 -273.417
+	government Uninhabited
 	link Bu
 	link Fis
 	link Larum
