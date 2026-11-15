@@ -1,0 +1,9 @@
+outfit Fwathtombi
+	category "Secondary Weapons"
+	plural Fwathtombiri
+	licenses "Tari Rithta Weapons"
+	cost 70000
+	thumbnail outfit/fwathtombi
+	"mass" 15
+	description TBD
+
