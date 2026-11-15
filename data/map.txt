@@ -236,14 +236,14 @@ system Fis
 	link Toka
 
 system Larum
-	pos -1050.833 -301.417
+	pos -1052.833 -297.417
 	government Uninhabited
 	link Fis
 	link Fusnoph
 	link Toka
 
 system Bu
-	pos -944.833 -278.083
+	pos -938.833 -278.75
 	government Uninhabited
 	link Fis
 	link Katro
