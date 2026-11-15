@@ -144,13 +144,16 @@ system Fantiboti
 	government Uninhabited
 	link Katro
 	link Saro
+	link Taka
 
 system Katro
 	pos -939.861 -227.764
 	government Uninhabited
+	link Bu
 	link Fantiboti
 	link Furum
 	link "Huarngko Kara"
+	link Simpe
 
 system Sopi
 	pos -877.417 -125.542
@@ -163,6 +166,7 @@ system Furum
 	government Uninhabited
 	link "Huarngko Kara"
 	link Katro
+	link Simpe
 	link Sopi
 	link "Tingka Tinko"
 
@@ -173,6 +177,7 @@ system "Tingka Tinko"
 	belt 1200
 	haze _menu/haze-full
 	link Furum
+	link Taro
 	asteroids "small rock" 5 16
 	asteroids "medium metal" 40 10
 	asteroids "large metal" 20 10
@@ -184,4 +189,62 @@ system "Tingka Tinko"
 		sprite star/protostar-orange
 			scale 20
 		period -10
+
+system Taro
+	pos -1033.333 -126.667
+	link Fusnoph
+	link Simpe
+	link "Tingka Tinko"
+
+system Fusnoph
+	pos -1085.333 -206
+	link Larum
+	link Simpe
+	link Taro
+	link Tisto
+
+system Tisto
+	pos -1051.333 -184
+	link Fusnoph
+	link Simpe
+
+system Simpe
+	pos -1022.667 -211.333
+	link Furum
+	link Fusnoph
+	link Katro
+	link Taro
+	link Tisto
+	link Toka
+
+system Taka
+	pos -970.167 -338.083
+	link Fantiboti
+	link Fis
+
+system Fis
+	pos -984.833 -306.083
+	link Bu
+	link Larum
+	link Taka
+	link Toka
+
+system Larum
+	pos -1050.833 -301.417
+	link Fis
+	link Fusnoph
+	link Toka
+
+system Bu
+	pos -944.833 -278.083
+	link Fis
+	link Katro
+	link Toka
+
+system Toka
+	pos -1016.833 -273.417
+	link Bu
+	link Fis
+	link Larum
+	link Simpe
 
