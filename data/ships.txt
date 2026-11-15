@@ -9,7 +9,7 @@ ship "Thlipambi"
 		"shields" 8600
 		"hull" 5300
 		"required crew" 14
-		"bunks" 16
+		"bunks" 18
 		"mass" 1100
 		"drag" 15.5
 		"heat dissipation" .34
