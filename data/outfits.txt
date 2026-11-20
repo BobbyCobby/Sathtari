@@ -1,9 +1,20 @@
-outfit Fwathtombi
+outfit "Fwathtombi Launcher"
 	category "Secondary Weapons"
 	plural Fwathtombiri
 	licenses "Tari Rithta Weapons"
 	cost 70000
 	thumbnail outfit/fwathtombi
 	"mass" 15
+	weapon
+		sprite projectile/fwathtombi
 	description TBD
 
+outfit "Fwathtombi"
+	category "Ammunition"
+	series "Ammunition"
+	index 01020
+	cost 700
+	thumbnail "outfit/fwathtombi"
+	"mass" .2
+	"fwathtombi capacity" -1
+	description "This is ammunition for the Fwathtombi launcher."
